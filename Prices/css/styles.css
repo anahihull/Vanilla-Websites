@@ -1,0 +1,49 @@
+body{
+    background: #F1F2F2;
+    font-family: 'Inter';
+}
+
+header .navbar{
+    background: #00273D;
+    
+}
+
+header .navbar a{
+    text-decoration: none;
+    color: #E4C000;
+}
+
+header .navbar .navbar-toggler{
+    background:#E4C000;
+}
+
+header .navbar .navbar-brand{
+    font-size: 20px;
+}
+
+header .navbar .navbar-brand svg{
+    align-self: center;
+    margin-right: 2px;
+    width: 30px;
+    height: 100%;
+}
+
+header .navbar .btn{
+    background: #E4C000;
+}
+
+main .card{
+    color: #FAFAFA;
+}
+
+main .card .card-header{
+    background: #00273D;
+    font-weight: bold;
+}
+
+main .card .btn-card{
+    background: #E4C000;
+    border: none;
+    border-radius: 3px;
+}
+

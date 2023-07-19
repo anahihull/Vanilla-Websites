@@ -1,0 +1,85 @@
+body{
+    background: #1F1F1F;
+}
+
+header .navbar{
+    background: #D9BD8B;
+}
+
+header .navHeader{
+    background: #D9BD8B;
+    color: #1F1F1F;
+}
+
+header .navHeader a{
+    color: #1F1F1F;
+}
+
+header .navbar .navbar-brand{
+    font-family: 'Lilita One';
+    color: #1F1F1F;
+}
+
+main .info h1{
+    color: #D9BD8B;
+    font-family: 'Lilita One';
+    font-size: 70px;
+    text-shadow: 0px 7px #2A8C7A;
+}
+
+main .info{
+    color: #D9BD8B;
+    font-family: 'Belanosima';
+    font-size: 20px;
+}
+
+main .info .button1{
+    background: #6C63A6;
+    border-color:#6C63A6;
+    border-width: 8px;
+    border-style: dashed;
+    color: #D9BD8B;
+    border-radius: 50px;
+    font-size: small;
+}
+
+main .info .button2{
+    background: #2A8C7A;
+    border-color:#2A8C7A;
+    border-width: 8px;
+    border-style: dashed;
+    color: #D9BD8B;
+    border-radius: 50px;
+    font-size: small;
+}
+
+main .card {
+    border-width: 5px;
+    border-color: #D9BD8B;
+    border-style: solid;
+    background: #6C63A6;
+    color: #FAFAFA;
+    font-family: 'Belanosima';
+}
+
+main .card .card-title{
+    font-family: 'Lilita One';
+    color: #D9BD8B;
+}
+main .card a{
+    background: #2A8C7A;
+    border: none;
+}
+
+main .card a:hover{
+    background: #D9BD8B;
+}
+footer {
+    background: #D9BD8B;
+    color: #1F1F1F;
+}
+
+footer a{
+    font-family: 'Belanosima';
+    color: #2A8C7A;
+}
